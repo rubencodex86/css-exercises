@@ -40,3 +40,36 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
+/* my  solution */
+
+.para {
+  font-size: 33px;
+}
+
+.para.small-para {
+  font-size: 20px;
+}
+
+#confirm-button {
+  background-color: green;
+  color: white;
+}
+
+.button {
+  font-size: 26px;
+}
+
+#cancel-button {
+  font-weight: lighter;
+}
+
+div.text {
+  font-size: 26px;
+  font-weight: lighter;
+}
+
+.text.child {
+  font-size: 21px;
+  font-weight: 800;
+}
