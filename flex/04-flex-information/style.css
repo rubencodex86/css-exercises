@@ -24,3 +24,43 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/*Resolution*/
+
+/*
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.element {
+  gap: 52px;
+}
+*/
+
+body {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.element {
+  width: 200px;
+}
